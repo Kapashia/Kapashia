@@ -56,9 +56,8 @@ Welcome to my GitHub profile! I'm **Kapashia Binte Giash**, a dedicated **Statis
 - Structural Equation Modeling on Econometric Data  
 
 🚀 **Ongoing Projects**:  
-- Master’s Thesis on Theoretical Biostatistics/Bioinformatics  
-- Exploration of **joint modeling techniques** for health data  
-
+- Master’s Thesis on Theoretical Biostatistics/Bioinformatics
+- 
 📂 **Notable Projects**:  
 
  **Interactive Visualizations** for  Econometric Data 
