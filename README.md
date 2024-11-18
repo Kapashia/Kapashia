@@ -1,7 +1,8 @@
 # Hi there, I'm **Kapashia Binte Giash** 👋  
 
-## 🧮 About Me  
+Welcome to my GitHub profile! I'm **Kapashia Binte Giash**, a dedicated **Statistician** and **Data Scientist** in training, passionate about solving real-world problems through statistical methodologies and data science.  
 
+## 🧮 About Me  
 🎓 **Master’s Student in Statistics**  
 🎓 **Bachelor’s Graduate in Statistics**  
 📊 **Aspiring Statistician & Data Scientist** passionate about using statistical methodologies and machine learning techniques to uncover insights and drive impactful solutions.  
